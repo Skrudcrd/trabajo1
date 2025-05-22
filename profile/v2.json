@@ -1,0 +1,35 @@
+{
+    "version":2,
+    "personalInfo": {
+        "fullName":"Alonso Rivadeneyra",
+        "age": 21,
+        "contact": {
+            "email":"christianalonsoar12@gmail.com",
+            "phone":"+51 960 044 293"
+        },
+        "location": {
+            "city":"Lima",
+            "country":"Perú"
+        }
+    },
+    "education":{
+        "university":"Universidad Científica Del Sur",
+        "degree":"Computer Engineering",
+        "year": 3
+    },
+    "skills":{
+        "languages": ["Java","SQL","JavaScript"],
+        "databases": ["PostgreSQL","MongoDB"],
+        "tools": ["Git","VS Code"]
+    },
+    "experience": [
+        {
+            "title":"Web Development Intern",
+            "company":"TechStart",
+            "duration":"2 months",
+            "technologies":["HTML","CSS","JavaScript"]
+        }
+    ],
+    "interest": ["Back-end Development","APIs","Problem Solving"],
+    "availableForIntership": true
+}

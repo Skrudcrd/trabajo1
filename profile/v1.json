@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "name":"Alonso Rivadeneyra",
+    "age": 21,
+    "email": "christianalonsoar12@gmail.com",
+    "university": "Universidad Científica Del Sur",
+    "programmingLanguages": ["Java","SQL"],
+    "availableForIntership": true
+}
